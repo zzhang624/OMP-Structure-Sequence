@@ -2,7 +2,7 @@
 
 Here are the source codes for the article [Inward-facing glycine residues create sharp turns in β-barrel membrane proteins](https://www.sciencedirect.com/science/article/pii/S0005273621001127).
 
-## Details
+## Results
 
 To investigate how the shape of OmpX β-barrels changes with an increasing number of β-strands, we tracked the shape of OmpX variants during equilibrium simulations. The calculated shapes are consistent with our initial observations; the variants with 8, 10, 12 and 14 β-strands maintain a high shape value while that of the 16-stranded variant drops significantly. The shapes of OmpX variants with 10, 12 and 14 strands are about 0.8 as calculated from 3-μs equilibrium simulations, suggesting that they are close to a circle. The shapes of WT OmpX (8-stranded) are relatively low with a value of about 0.6. However, the shapes of variants with 16 strands are about 0.3, demonstrating that these OmpX variants adopt a nearly flat shape.
 
