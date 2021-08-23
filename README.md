@@ -2,7 +2,7 @@
 
 Here are the source codes for the article [Inward-facing glycine residues create sharp turns in β-barrel membrane proteins](https://www.sciencedirect.com/science/article/pii/S0005273621001127).
 
-## Shape calculation ()
+## Shape calculation (projection.tcl & get_b_over_a.py)
 For each OmpX variant, an ellipse is fit to the x and y coordinates of the β-barrel Cα atoms, which are flattened onto the z=0 plane, using the cv2 python library and cv2.fitEllipse function. We extract the semi-major (a) and semi-minor (b) axes from these ellipses and define the ratio of b to a as the shape of the fitted β-barrel. Thus, the shape value will fall between 0 and 1, with a perfect circle giving a shape value of 1 and a flattened ellipse giving a shape value close to zero. 
 
 ## Results
